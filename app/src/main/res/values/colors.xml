@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#10E2C4</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="Category_Attractions">#F8F7F7</color>
+
+    <color name="buttons">#FFFFFF</color>
+</resources>

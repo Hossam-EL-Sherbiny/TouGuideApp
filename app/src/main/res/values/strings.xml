@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+
+    <string name="Attraction">Attractions</string>
+    <string name="Event">Events</string>
+    <string name="Historic">Historic Places</string>
+    <string name="museum">Museum</string>
+
+    <string name="welComToEgypt">WelComToEgypt</string>
+    <string name="details">Details</string>
+    <string name="attractions">Attractions</string>
+    <string name="museums">Museums</string>
+    <string name="historic">Historic Places</string>
+    <string name="events">Events</string>
+    <string name="todo">TODO</string>
+
+</resources>
